@@ -1,8 +1,7 @@
 # Power Analysis: AI Fairness and Hiring Decisions
 
-Simulation-based power analysis for the project **"Does a Fair Algorithm Lead
-to Fair Hiring? The Role of AI Fairness Definitions, Culture, and Decision-
-Making Structure."** The repository contains two simulation scripts (one per
+Simulation-based power analysis for the project **"Fair Algorithms, Fair Decisions? Examining 
+Gender Bias Mitigation in AI-Assisted Hiring."** The repository contains two simulation scripts (one per
 study), a re-plot utility, and a Windows helper that runs all four analysis
 modes in parallel.
 
